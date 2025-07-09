@@ -1,0 +1,2 @@
+# EdgeAiAPIFrameworkUltra
+Advanced EdgeAiAPIFrameworkUltra project
